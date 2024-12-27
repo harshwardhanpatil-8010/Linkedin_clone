@@ -1,6 +1,5 @@
 # LINKEDIN_CLONE
 
-![LinkedIn Clone](https://via.placeholder.com/1200x300.png?text=LinkedIn+Clone)
 
 A static clone of LinkedIn built using HTML and CSS, showcasing a modern and responsive design. This project serves as a front-end recreation of LinkedIn's interface, designed to practice and demonstrate proficiency in web development fundamentals.
 
